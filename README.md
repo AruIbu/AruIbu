@@ -17,7 +17,7 @@
 
 <h3 align="left">My Experience</h3>
 <ul>
-  <li>Coding Instructor @ Whitehat Junior</li>
+  <li>Director Coding Instructor @ Whitehat Junior</li>
   <li>Frontend and Backend Developer @ Cognizant</li>
  </ul>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AruIbu&show_icons=true&locale=en&layout=compact" alt="riyagoel192" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AruIbu&show_icons=true&locale=en&layout=compact" alt="AruIbu" /></p>
 
 <br>
 
