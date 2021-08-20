@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Phython Projects
-📫 How to reach me: sweetybca10@gmail.com
+###🔭 I’m currently working on Phython Projects
+<br>
+###📫 How to reach me: sweetybca10@gmail.com
 
 <!--
 **AruIbu/AruIbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <img src='https://github-readme-stats.vercel.app/api?username=AruIbu&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AruIbu&theme=tokyonight&hide_langs_below=4' align="middle" />
 
