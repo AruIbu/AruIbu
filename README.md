@@ -1,18 +1,13 @@
 ### Hi there , I am Arwa  👋
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AruIbu&label=Profile%20views&color=0e75b6&style=flat" alt="AruIbu" /> </p>
+- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)
+
+- 📫 How to reach me: **sweetybca10@gmail.com**
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AruIbu" alt="AruIbu" /></a> </p>
 
 
-- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)
-
-- 📫 How to reach me: **sweetybca10@gmail.com**
-
-<br>
-
-<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/55539590/110318829-0413e700-8034-11eb-92ff-99ab8bc700a4.gif"></img>
 <br>
 
 <h3 align="left">My Experience</h3>
@@ -22,10 +17,7 @@
  </ul>
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
