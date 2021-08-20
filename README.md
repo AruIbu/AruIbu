@@ -1,35 +1,44 @@
-### Hi there 👋
+### Hi there , I am Arwa  👋
 
-###🔭 I’m currently working on Phython Projects
-<br>
-###📫 How to reach me: sweetybca10@gmail.com
 
-<!--
-**AruIbu/AruIbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--🌱 I’m currently learning ...
--👯 I’m looking to collaborate on ...
--🤔 I’m looking for help with ...
- -💬 Ask me about ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
-<img src='https://github-readme-stats.vercel.app/api?username=AruIbu&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AruIbu&theme=tokyonight&hide_langs_below=4' align="middle" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AruIbu&label=Profile%20views&color=0e75b6&style=flat" alt="AruIbu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AruIbu" alt="AruIbu" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AruIbu1&%22%20alt=%22AruIbu" /></p>
+- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)
 
+- 📫 How to reach me: **sweetybca10@gmail.com**
 
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AruIbu1&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
+<br>
 
+<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/55539590/110318829-0413e700-8034-11eb-92ff-99ab8bc700a4.gif"></img>
+<br>
 
-![Visitor Count](https://profile-counter.glitch.me/AruIbu/count.svg)
+<h3 align="left">My Experience</h3>
+<ul>
+  <li>Coding Instructor @ Whitehat Junior</li>
+  <li>Frontend and Backend Developer @ Cognizant</li>
+ </ul>
 
+<br>
+<br>
+<br>
+<br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AruIbu&show_icons=true&locale=en&layout=compact" alt="riyagoel192" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AruIbu&show_icons=true&locale=en" alt="AruIbu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AruIbu&" alt="AruIbu" /></p>
 
