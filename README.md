@@ -1,10 +1,9 @@
 ### Hi there , I am Arwa  👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AruIbu&label=Profile%20views&color=0e75b6&style=flat" alt="AruIbu" /> </p>
-- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)
-
+- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)<br>
 - 📫 How to reach me: **sweetybca10@gmail.com**
 <br>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AruIbu" alt="AruIbu" /></a> </p>
 
 
