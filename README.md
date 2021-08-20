@@ -1,6 +1,6 @@
 ### Hi there , I am Arwa  👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AruIbu&label=Profile%20views&color=0e75b6&style=flat" alt="AruIbu" /> </p>
-- 👨‍💻 Check Out my Work At: [https://github.com/AruIbu](https://github.com/AruIbu)<br>
+- 👨‍💻 Check Out my Work At: https://github.com/AruIbu <br>
 - 📫 How to reach me: sweetybca10@gmail.com
 <br>
 <br>
